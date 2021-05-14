@@ -12,3 +12,7 @@ flutter run -d chrome lib/main.dart
 
 3. Go back to the terminal and press "r"
 
+## References
+
+- https://github.com/flutter/flutter/issues/67194
+
