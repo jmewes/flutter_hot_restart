@@ -5,7 +5,7 @@
 1. Start app
 
 ```
-flutter run -d chrome lib/main.dart
+flutter run --verbose -d chrome lib/main.dart
 ```
 
 2. Edit text in `lib/util/form_stepper/src/form_stepper.dart:6`
