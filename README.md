@@ -8,7 +8,11 @@
 flutter run -d chrome lib/main.dart
 ```
 
-2. Edit text in `lib/util/form_stepper/src/form_stepper.dart:5`
+2. Edit text in `lib/util/form_stepper/src/form_stepper.dart:6`
+
+```
+sed -i 's/Continue/Discontinue/g' lib/util/form_stepper/src/form_stepper.dart
+```
 
 3. Go back to the terminal and press "r"
 
