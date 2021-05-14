@@ -3,6 +3,6 @@ import 'package:flutter/material.dart';
 class Foo extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return const Text('Continue22222');
+    return const Text('continue');
   }
 }
