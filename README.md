@@ -1,4 +1,4 @@
-# Hot Reload Problem Report
+# Hot Restart Problem Report
 
 ## Steps to reproduce
 
